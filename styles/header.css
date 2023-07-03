@@ -8,7 +8,8 @@
 }
 
 .cabecalho{
-    background-color: red;
+    background-color: var(--preto);
+    position: relative;
 
 
 
