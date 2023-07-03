@@ -82,12 +82,6 @@
   padding: 1cm;
   background-color: var(--branco);
 }
-    position: absolute;
-    top: 100%;
-    background-color: var(--branco);
-    width: 60vw;
-
-}
 
 .container__botao{
   display: none;
